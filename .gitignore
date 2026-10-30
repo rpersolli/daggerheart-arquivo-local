@@ -1,0 +1,14 @@
+deps/
+data/
+public/books/
+public/catalog.json
+public/assets/*.png
+public/assets/*.jpeg
+public/assets/*.jpg
+previa.png
+__pycache__/
+*.pyc
+.venv/
+.env
+*.pdf
+*.zip
