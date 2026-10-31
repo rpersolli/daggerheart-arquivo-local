@@ -15,3 +15,4 @@ body{font-size:calc(14px * var(--font-scale,1))}.book{position:relative}.favorit
 .brand{font-size:18px;letter-spacing:1px}.reader-tools-right,.reader-tools-left{min-width:0;overflow-wrap:anywhere}.reader-tools-right p{max-width:100%}@media(max-width:1050px){.brand{font-size:16px}}
 
 .book h3{overflow-wrap:anywhere}.book-actions button{min-width:0}#reader-right p{width:100%;white-space:normal}html,body{max-width:100%;overflow-x:clip}
+html:has(#reader[open]),body:has(#reader[open]){overflow:hidden}#reader{width:100%;max-width:100%}
