@@ -4,7 +4,7 @@ A versão web fica em `docs/`. Não precisa executar Python, instalar aplicativo
 
 ## Biblioteca
 
-O build baixa os 14 PDFs gratuitos listados em `official-downloads.json`, das URLs oficiais de Daggerheart, e gera suas capas. Eles são servidos junto com o site. O livro básico comercial e os PDFs particulares não são redistribuídos na publicação. Cada usuário pode adicioná-los à biblioteca pessoal do navegador e lê-los no próprio site.
+O build baixa os 14 PDFs gratuitos listados em `official-downloads.json`, das URLs oficiais de Daggerheart, e gera suas capas. Eles são servidos junto com o site. Os quatro PDFs fornecidos pelo usuário são publicados como assets da release v1.0.1 e incluídos no build, com capas e índice de pesquisa. Usuários também podem adicionar livros pessoais à biblioteca do navegador.
 
 ## Fichas
 
