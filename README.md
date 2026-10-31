@@ -4,14 +4,18 @@ Site para PC, tablet e celular. Abra no navegador, sem instalar aplicativos ou i
 
 **https://rpersolli.github.io/daggerheart-arquivo-local/**
 
-- Biblioteca com 14 PDFs gratuitos oficiais e suas capas.
+- Biblioteca com 18 PDFs, incluindo os quatro livros fornecidos e suas capas.
 - Leitor de PDF dentro do site, navegação e busca por texto.
 - Importação de livros pessoais e fichas já preenchidas.
 - Edição dos campos sobre a ficha, salvamento no aparelho e exportação em PDF.
 - Substituição visual de texto em PDFs sem campos (sem OCR; não remove o texto subjacente).
+- Favoritos com estrela amarela, menu recolhível e exclusão por navegador.
+- Busca global com contagens, destaques e navegação entre páginas encontradas.
+- Leitor centralizado com ferramentas laterais e atalhos ←/→ e A/D.
+- Temas claro/escuro, alto contraste, texto ampliado e redução de movimento.
 - Caderno pessoal com exportação de backup.
 
-Fichas e livros importados ficam apenas no navegador de cada usuário, sem envio ao GitHub e sem sincronização entre aparelhos. Faça backup dos PDFs editados. O livro básico comercial não é redistribuído; pode ser importado na biblioteca pessoal.
+Fichas e livros importados ficam apenas no navegador de cada usuário, sem envio ao GitHub e sem sincronização entre aparelhos. Faça backup dos PDFs editados. Os quatro PDFs fornecidos estão incluídos na biblioteca pública.
 
 ## Código e publicação
 
