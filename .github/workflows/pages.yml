@@ -1,7 +1,7 @@
 name: Publicar site Daggerheart
 on:
   push:
-    branches: [main, "1.0.1"]
+    branches: [main]
   workflow_dispatch:
 permissions:
   contents: read
