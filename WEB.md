@@ -21,3 +21,11 @@ Fichas e livros pessoais ficam no IndexedDB do navegador; notas ficam no armazen
 Em Settings → Pages, selecione GitHub Actions como Source. A conta precisa permitir Pages nesse repositório; em planos gratuitos ele precisa ser público. Os arquivos antigos do modo local continuam no histórico, mas o site usa somente `docs/`.
 
 O build usa PDF.js 4.10.38 (Apache-2.0) e pdf-lib 1.17.1 (MIT), baixados do registro npm via jsDelivr. Materiais do jogo mantêm suas respectivas titularidades. Projeto pessoal não oficial.
+
+## Cartas e mesa
+
+A página Cartas apresenta somente as 270 frentes do PDF, com filtros por categoria, classe, domínio, estágio e nível. As imagens são geradas por `generate_cards.py` durante a publicação. Os favoritos são individuais por navegador.
+
+No leitor, Minhas Cartas permite colocar uma favorita ou todas na tela. Arraste com mouse/toque; selecione a carta para acessar a lixeira (remove só da tela) ou o menu de tamanho, trava, anotação e cor. As posições e anotações são guardadas por documento no navegador e não são incorporadas ao PDF exportado.
+
+Zoom usa uma barra de 50% a 300%. Duas Páginas permite escolher a primeira no campo Página e a segunda no campo Segunda página. Restaurar limpa a pesquisa e os destaques, preservando os campos editados. As funções das setas laterais foram invertidas conforme solicitado; os atalhos A/D e esquerda/direita continuam seguindo a direção lógica de leitura. O campo Página não possui mais o controle numérico de setas.
