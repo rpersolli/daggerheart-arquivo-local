@@ -31,4 +31,6 @@ for i,(name,title) in enumerate([('DH-Livro-Basico.pdf','Livro básico'),('Dagge
 (out/'search-index.json').write_text(json.dumps(index,ensure_ascii=False),encoding='utf-8')
 (out/'catalog.json').write_text(json.dumps(catalog,ensure_ascii=False),encoding='utf-8')
 (out/'.nojekyll').touch()
+from generate_cards import generate
+generate(ROOT)
 print('Static site ready:',len(catalog),'official PDFs')
